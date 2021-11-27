@@ -17,8 +17,11 @@
     "@vue/composition-api": "~1.0.4",
     "@vuetify/cli-plugin-utils": "0.0.9",
     "apexcharts": "~3.30.0",
+    "axios": "^0.24.0",
     "core-js": "~3.19.1",
+    "electron": "^16.0.2",
     "electron-builder": "~22.14.5",
+    "element-ui": "^2.15.6",
     "vue": "~2.6.14",
     "vue-apexcharts": "~1.6.2",
     "vue-router": "~3.5.3",
@@ -33,7 +36,6 @@
     "@vue/cli-service": "~4.5.15",
     "@vue/eslint-config-airbnb": "~5.3.0",
     "babel-eslint": "~10.1.0",
-    "electron": "~13.6.2",
     "electron-devtools-installer": "~3.2.0",
     "eslint": "~6.8.0",
     "eslint-plugin-import": "~2.25.3",
@@ -42,6 +44,7 @@
     "sass-loader": "~10.2.0",
     "vue-cli-plugin-electron-builder": "~2.1.1",
     "vue-cli-plugin-vuetify": "~2.4.3",
+    "vue-devtools": "^5.1.4",
     "vue-template-compiler": "~2.6.14",
     "vuetify-loader": "~1.7.3"
   }
