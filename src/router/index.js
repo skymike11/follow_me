@@ -29,6 +29,11 @@ const routes = [
     component: () => import('@/views/cards/Card.vue'),
   },
   {
+    path: '/camera',
+    name: 'camera',
+    component: () => import('@/views/camera/Camera.vue'),
+  },
+  {
     path: '/simple-table',
     name: 'simple-table',
     component: () => import('@/views/simple-table/SimpleTable.vue'),

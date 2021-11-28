@@ -69,6 +69,11 @@
       </nav-menu-group>
       <nav-menu-section-title title="USER INTERFACE"></nav-menu-section-title>
       <nav-menu-link
+        title="Camera"
+        :to="{ name: 'camera' }"
+        :icon="icons.mdiEyeOutline"
+      ></nav-menu-link>
+      <nav-menu-link
         title="Typography"
         :to="{ name: 'typography' }"
         :icon="icons.mdiAlphaTBoxOutline"
